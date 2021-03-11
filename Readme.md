@@ -3,9 +3,12 @@
 For bold, **Testing Bold Values**
 For italic, _Iam Italic_ and _Iam Italic Too_
 
-```
+```javascript
+const values = "abc"
 
-Code goes here
+
+<!--Code goes here-->
+//Comment goes here
 
 ```
 
