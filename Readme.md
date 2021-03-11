@@ -11,8 +11,11 @@ Code goes here
 
 ### TODO List:
 
-[x] Covers different types of markdown
-[x] Covers sample
+✨✨⭐🌟⭐⭐⭐⭐⭐⭐⭐
+
+⭐[x] Covers different types of markdown
+[X] Covers sample
+⭐[] Check Values
 
 ## Some of the best courses for leaning markdown
 
