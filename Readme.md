@@ -15,7 +15,7 @@ Code goes here
 
 - [x] Covers different types of markdown
 - [X] Covers sample
-- []  Check Values
+- [] Check Values
 
 ## Some of the best courses for leaning markdown
 
